@@ -2,7 +2,7 @@
   "name": "mshauri",
   "private": true,
   "dependencies": {
-    "@rails/actioncable": "^6.0.0-alpha",
+    "@rails/actioncable": "^6.0.3",
     "@rails/activestorage": "^6.0.0-alpha",
     "@rails/ujs": "^6.0.0-alpha",
     "turbolinks": "^5.2.0",
